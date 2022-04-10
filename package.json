@@ -1,0 +1,22 @@
+{
+  "name": "text-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soulslurpee/text-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soulslurpee/text-game/issues"
+  },
+  "homepage": "https://github.com/soulslurpee/text-game#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
